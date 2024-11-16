@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<header>
+<header style="background-color:black;color:grey;padding:30px;text-align:center">
+<body style="background-color:grey;">
+<h1>MY PROFILE</h1>
+<img src="Egoo.jpeg"height="400px";width="400px;">
+<marquee>
+<ol>JOHN ERIC CAOILE</ol>
+</marquee>
+
+<header class="header">
+<nav>
+<ul class="nav-menu">
+<button style="font-size:25px;background-color:lightblue;color:black;border-radius:25px"><a href="https://www.facebook.com/skeptknot?mibextid=LQQJ4d">FACEBOOK</a>
+<button style="font-size:25px;background-color:lightblue;color:black;border-radius:25px"><a href="https://www.instagram.com/egoomf/profilecard/?igsh=MWdvMGx2eXlseTQ5MQ==">INSTAGRAM</a>
+<button style="font-size:25px;background-color:lightblue;color:black;border-radius:25px"><a href="https://www.tiktok.com/@egoo201?_t=8rQA1sSJ1gm&_r=1">TIKTOK</a>
+</nav>
+<h2>MY SOSIAL MEDIA ACCOUNTS</h2>
+<style>
+body{background-color:#A5A2A2;/* a suitable shade of red */
+margin:0;/* remove defult margin */ 
+font-family:arial,sans-serif;/* optional set of font */
+}
+.header{background-image: url(background.jpeg);
+color:white;
+padding:100px;
+background-size:cover;
+background-position:center
+border-bottom:5px solid black:/* black border separating header from body */
+}
+.nav-menu{
+list-style-type:none;
+padding:0;
+margin:0;
+display:inline-flex;
+gap:20px;
+}
+.nav-menu li{
+display: inline;
+}
+.nav-menu a{
+background-color:B22222;/* iron man red */
+color:wihite;
+padding: 10px 15px;
+text-decoration:none;
+font-size:bold;
+border-raduis:5px;
+transition:background-color 0.3s ease;
+}
+.nav-menu a:hover {
+background-color:#8B0000;
+/* Darker red for hover */
+text-decoration:underline;
+}
+</style>
+	</head>
+
+<img src="slurp.jpeg" width="300px" id="img1">
+
+<p><h2>Hi im eric this is my website design its very simple but im keep working on it to be able to reach your statisfsction.
+as of now this is what i can do hope you understand im still learning how to make it beter thanks:).
+</h2></p>
+
+<h2>ABOUT ME?</h2>
+<button style="font-size:30px;border-raduis:20px;"><a href="about me.html">CLICK HERE</a>
+</button>
